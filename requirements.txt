@@ -1,0 +1,16 @@
+## 🛠️ Dependencies
+
+1. Python 3.8+
+
+2. praw
+
+3. pandas, numpy
+
+4. nltk, vaderSentiment
+
+5. gensim
+
+6. matplotlib, seaborn, wordcloud
+
+7. jupyter
+
